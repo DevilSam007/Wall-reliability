@@ -1,2 +1,2 @@
-# Wall-reliability
-to test wall's relaibility against bullets
+# p5.play-boilerplate
+Boiler plate for p5.play
